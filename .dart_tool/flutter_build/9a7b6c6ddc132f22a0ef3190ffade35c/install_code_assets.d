@@ -1,0 +1,1 @@
+ /Users/israkhan/Documents/TravelApp/.dart_tool/flutter_build/9a7b6c6ddc132f22a0ef3190ffade35c/native_assets.json: 
