@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-
 import '../screens/details.dart';
 
 class VerticalPlaceItem extends StatelessWidget {

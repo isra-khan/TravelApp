@@ -1,6 +1,6 @@
 List places = [
   {
-    "name": "Hotel Dolah Amet & Suites",
+    "name": "Hotel Dolah Amet",
     "img": "assets/1.jpeg",
     "price": r"$100/night",
     "location": "London, England",
@@ -15,7 +15,7 @@ List places = [
         "Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui.",
   },
   {
-    "name": "Beach Mauris Blandit",
+    "name": "Beach Mauris",
     "img": "assets/2.jpeg",
     "price": r"$100/night",
     "location": "Lisbon, Portugal",
