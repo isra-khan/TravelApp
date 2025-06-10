@@ -1,7 +1,7 @@
 
-# 🛫Flutter Travel App Concept 
+# 🛫Flutter Travel App 
 
-Star⭐ the repo if you like what you see😉.
+
 
 
 
